@@ -21,6 +21,7 @@ import android.support.v7.widget.RecyclerView;
 /**
  * Listener for manual initiation of a drag.
  */
+//xl Used in RecyclerListAdapter
 public interface OnStartDragListener {
 
     /**

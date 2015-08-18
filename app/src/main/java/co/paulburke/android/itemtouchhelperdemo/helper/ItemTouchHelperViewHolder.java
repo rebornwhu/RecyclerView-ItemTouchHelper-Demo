@@ -24,6 +24,7 @@ import android.support.v7.widget.helper.ItemTouchHelper;
  *
  * @author Paul Burke (ipaulpro)
  */
+//xl Used in SimpleItemTouchHelperCallback
 public interface ItemTouchHelperViewHolder {
 
     /**
